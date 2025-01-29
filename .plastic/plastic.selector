@@ -1,0 +1,4 @@
+repository "SinXSyndicate 2025-01-25_06-57-48/SinXSyndicate@18968081049215@cloud"
+  path "/"
+    br "/main"
+    co "/main"
